@@ -52,9 +52,7 @@
 <br>
   <br>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-</br>
-[![R00TK1T1777's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=R00TK1T1777&theme=tokyonight)](https://git.io/praveenscience)
+[![R00TK1T1777's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=R00TK1T1777&theme=tokyonight)](https://git.io/R00TK1T1777)
 
 | ![R00TK1T1777's github stats](https://github-readme-stats.vercel.app/api?username=R00TK1T1777&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R00TK1T1777&theme=tokyonight) |
 | --- | --- |
