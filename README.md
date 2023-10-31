@@ -5,12 +5,13 @@
 <h1> Hello I'am ROOTKIT-1777</h1>
 <p align='center'>
 </p>
+<br>
+<p align="center">
+    <img width="200" src = "https://media.tenor.com/F2Yu8YbVV_MAAAAC/hello-cat.gif">
+</p>
+</br>
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=R00TK1T1777.R00TK1T1777)
-[![Github](https://img.shields.io/github/followers/R00TK1T1777?label=Follow&style=social)](https://github.com/R00TK1T1777)
-
-<div size='20px'> I'm Cyber Security Re-Searcher & Enthusiast! :smile: <img src = "https://media.tenor.com/F2Yu8YbVV_MAAAAC/hello-cat.gif">
+<div size='20px'> I'm Cyber Security Re-Searcher & Enthusiast! :smile:
 </div> 
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
