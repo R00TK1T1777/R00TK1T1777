@@ -59,7 +59,6 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R00TK1T1777&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=R00TK1T1777&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=tokyonight) |
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <h4> 🤡 There's Some Joke For You : </h4>
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
