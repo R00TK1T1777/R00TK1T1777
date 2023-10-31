@@ -58,12 +58,9 @@
 | ![R00TK1T1777's github stats](https://github-readme-stats.vercel.app/api?username=R00TK1T1777&show_icons=true&theme=tokyonight) | ![R00TK1T1777 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R00TK1T1777&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R00TK1T1777&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=R00TK1T1777&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=tokyonight) |
-
-🤡 There's Some Joke For You : 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
+-----
+<h4>🤡 There's Some Joke For You : <h4>
+| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) | 
+-----
 
 <br>
-
-
------
